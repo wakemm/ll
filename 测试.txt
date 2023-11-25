@@ -19,7 +19,7 @@ CCTV14,http://hms404nc1972679597.live.aikan.miguvideo.com/wh7f454c46tw416854645_
 CCTV15,http://hms364nc1972679592.live.aikan.miguvideo.com/wh7f454c46tw425153998_1997805792/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=114.239.191.210&timestamp=20230225105633&ContentId=265667535&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=555&zjClientId=77441101ae46e532&mtv_session=d10dca61e5e9df4eb1705862d044bd96&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9b139219dcd3660e6b8225535aa49da8
 咪咕CHC,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad&咪咕
 
-辽内地,#genre#
+辽宁频道,#genre#
 辽宁都市,http://218.25.44.2:8899/hls/47/index.m3u8
 
 
