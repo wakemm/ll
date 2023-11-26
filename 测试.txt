@@ -27,21 +27,8 @@ CCTV风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 辽宁卫视,http://hms304nc1972679587.live.aikan.miguvideo.com/wh7f454c46tw2282627758_1994601892/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525094907&ContentId=265669068&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=9c0614aeddbffa60b2d1ab802fb39782&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=49ab969e010eea670d23e93232cd107c
 辽宁都市,http://218.25.44.2:8899/hls/47/index.m3u8
 辽宁都市,http://42.176.185.28:9901/tsfile/live/1005_1.m3u8
-辽宁生活,http://42.176.185.28:9901/tsfile/live/1006_1.m3u8
-辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-辽宁教育,http://42.176.185.28:9901/tsfile/live/1008_1.m3u8
-辽宁经济,http://42.176.185.28:9901/tsfile/live/1009_1.m3u8
-辽宁公共,http://42.176.185.28:9901/tsfile/live/1010_1.m3u8
-辽宁北方,http://42.176.185.28:9901/tsfile/live/1011_1.m3u8
-辽宁影视,http://42.176.185.28:9901/tsfile/live/1012_1.m3u8
-丹东新闻综合,http://pili-live-hdl.zhdd.tianma3600.com/zhddgbds/dspd1.m3u8?zliaond
-朝阳新闻综合,https://play.cytv01.cygbdst.com/live/cyxwtv.m3u8?zliaond
-朝阳教育,https://play.cytv01.cygbdst.com/live/jypdtv.m3u8?zliaond
-鞍山新闻综合,http://live.asbctv.com:8080/live/lnastv-01.m3u8
-鞍山公共频道,http://live.asbctv.com:8080/live/lnastv02.m3u8
-盘锦新闻综合,http://pili-live-rtmp-pjfb2.tianma3600.com/pjfb2/xwzhtest.m3u8
-盘锦公共频道,http://pili-live-rtmp-pjfb2.tianma3600.com/pjfb2/dushipindao.m3u8
-盘锦影视频道,http://pili-live-rtmp-pjfb2.tianma3600.com/pjfb2/yspdnew.m3u8
+
+
 
 卫视频道,#genre#
 东方卫视,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw2250540763_5625865/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=223.68.47.103&timestamp=20230525094835&ContentId=264104266&timezone=UTC&netType=Wifi&clientType=Android&zjAppVersion=559&zjClientId=77441101ae46e532&mtv_session=657a4b9cc5dd9950404485eb9861f3c0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=20a5b4ea510471803f2bb1e58002ff9d
