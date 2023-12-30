@@ -1,5 +1,4 @@
-//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
-//Q群：235436873
+
 
 {
 	"spider": "./YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
@@ -7,7 +6,7 @@
 	"lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "./tv/ysclive.txt",
+		    "url": "http://tvkj.top/DC/ysc/tvkj/lib/ysclive.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
