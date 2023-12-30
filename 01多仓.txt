@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "💕整合仓库💕",
-      "sourceUrl": "https://codeberg.org/spabb/qyjs/raw/branch/main/%E7%BA%BF%E8%B7%AF.txt
+      "sourceUrl": "https://github.com/wakemm/ll/raw/main/01%E7%BA%BF%E8%B7%AF.txt
     },
     {
       "sourceName": "💕网络仓库💕",
