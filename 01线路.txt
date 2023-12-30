@@ -2,7 +2,7 @@
   "urls": [
     {
       "name": "▶️看电视",
-      "url": "https://jihulab.com/546199810/hx/-/raw/main/hxzx.txt?ref_type=heads"
+      "url": "https://github.com/wakemm/ll/raw/main/01-3%E7%BA%BF%E8%B7%AF1.txt"
     },
     {
       "name": "🚖心魔线路",
