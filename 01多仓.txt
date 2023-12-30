@@ -2,7 +2,7 @@
   "storeHouse": [
     {
       "sourceName": "💕整合仓库💕",
-      "sourceUrl": "https://github.com/wakemm/ll/raw/main/01%E7%BA%BF%E8%B7%AF.txt
+      "sourceUrl": "https://codeberg.org/spabb/qyjs/raw/branch/main/%E7%BA%BF%E8%B7%AF.txt
     },
     {
       "sourceName": "💕网络仓库💕",
@@ -11,6 +11,10 @@
     {
       "sourceName": "💕心动仓库💕",
       "sourceUrl": "https://jihulab.com/546199810/hx/-/raw/main/xdck.txt"
+    },
+    {
+      "sourceName": "💕雪花仓库💕",
+      "sourceUrl": "https://github.com/wakemm/ll/raw/main/%E6%98%9F%E8%BE%B0.txt"
     }
   ]
 }
