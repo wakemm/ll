@@ -10,7 +10,7 @@
     },
     {
       "name": "全部4k",
-      "url": "https://github.com/wakemm/ll/raw/main/01-3%E7%BA%BF%E8%B7%AF1.txt"
+      "url": "https://github.com/wakemm/ll/raw/main/4K%E7%BA%BF%E8%B7%AF.txt"
     },
     {
       "name": "💗乌鸦不太黑",
