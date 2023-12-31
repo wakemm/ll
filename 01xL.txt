@@ -10,7 +10,7 @@
     },
     {
       "name": "全部4k",
-      "url": "https://jihulab.com/546199810/hx/-/raw/main/qb4k.txt"
+      "url": "https://github.com/wakemm/ll/raw/main/4KxL.txt"
     },
     {
       "name": "💗乌鸦不太黑",
