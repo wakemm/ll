@@ -1,0 +1,20 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "💕整合仓库💕",
+      "sourceUrl": "https://github.com/wakemm/ll/raw/main/01xL.txt"
+    },
+    {
+      "sourceName": "💕网络仓库💕",
+      "sourceUrl": "http://tvkj.top/DC.txt"
+    },
+    {
+      "sourceName": "💕心动仓库💕",
+      "sourceUrl": "https://github.com/wakemm/ll/raw/main/01cxDxL.txt"
+    },
+    {
+      "sourceName": "💕雪花仓库💕",
+      "sourceUrl": "https://github.com/wakemm/ll/raw/main/01-4xC.txt"
+    }
+  ]
+}
