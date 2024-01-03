@@ -5,6 +5,10 @@
       "url": "https://github.com/wakemm/ll/raw/main/01-3xL1.txt"
     },
     {
+      "name": "燕双鹰轮播",
+      "url": "https://github.com/wakemm/ll/raw/main/ysy.txt"
+    },
+    {
       "name": "🚖心魔线路",
       "url": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js.json"
     },
