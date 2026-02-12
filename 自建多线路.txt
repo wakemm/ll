@@ -1,0 +1,41 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "line1",
+      "name": "肥猫",
+      "type": 0,
+      "api": "http://肥猫.com"
+    },
+    {
+      "key": "line2",
+      "name": "我不是摸鱼儿",
+      "type": 0,
+      "api": "http://我不是.摸鱼儿.com"
+    },
+    {
+      "key": "line3",
+      "name": "饭太硬",
+      "type": 0,
+      "api": "http://www.饭太硬.com/tv"
+    },
+    {
+      "key": "line4",
+      "name": "王小二",
+      "type": 0,
+      "api": "https://9280.kstore.vip/newwex.json"
+    },
+    {
+      "key": "line5",
+      "name": "我不是摸鱼儿-备用",
+      "type": 0,
+      "api": "http://我不是.摸鱼儿.com"
+    },
+    {
+      "key": "line6",
+      "name": "蜗牛",
+      "type": 0,
+      "api": "https://tv.蜗牛.top/svip"
+    }
+  ]
+}
